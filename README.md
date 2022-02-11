@@ -11,6 +11,8 @@
 🤔 I’m currently interested in Coroutine, Room, SQLite, Retrofit, LiveData, MVVM
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-SOU&show_icons=true&theme=merko)
+
+https://img.shields.io/badge/style-forthebage-red?style=for-the-badge
 <!--
 **The-SOU/The-SOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
