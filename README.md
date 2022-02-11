@@ -12,7 +12,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-SOU&show_icons=true&theme=merko)
 
-[![Gmail Badge](https://img.shields.io/badge/style-forthebage-red?style=for-the-badge)](https://www.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/style-forthebage-orange?logo=android?style=for-the-badge)](https://www.tistory.com/)
+
+https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
 
 
 <!--
