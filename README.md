@@ -12,7 +12,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-SOU&show_icons=true&theme=merko)
 
-https://img.shields.io/badge/style-forthebage-red?style=for-the-badge
+[![Gmail Badge](https://img.shields.io/badge/style-forthebage-red?style=for-the-badge)](mailto:snugyun01@gmail.com)
+
+
 <!--
 **The-SOU/The-SOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
