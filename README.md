@@ -14,7 +14,7 @@
 
 <div align=center>
 	
-[![Tistory Badge](https://img.shields.io/badge/Tistory-Techblog-orange?logo=android&style=flat-square)](https://www.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-Techblog-orange?logo=android&style=flat-square)](https://ggachi.tistory.com/)
 	
 </div>
 
