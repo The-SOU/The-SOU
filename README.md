@@ -6,7 +6,7 @@
 
 ## Android Developer
 
-🌱 I’m currently learning Coroutine, Room, Retorift
+🌱 I’m currently learning Coroutine, Room, Retorift, Git
 
 🤔 I’m currently interested in Coroutine, Room, SQLite, Retrofit, LiveData, MVVM
 
