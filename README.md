@@ -12,6 +12,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-SOU&show_icons=true&theme=merko)
 
+<p align"center">
+
+<img src="![거북왕](https://github.com/The-SOU/The-SOU/assets/54764319/cfde4015-74d5-44c0-b55e-afd425199176)">
+
+</p>
+	
 <div align=center>
 	
 [![Tistory Badge](https://img.shields.io/badge/Tistory-Techblog-orange?logo=android&style=flat-square)](https://ggachi.tistory.com/)
