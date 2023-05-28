@@ -8,7 +8,7 @@
 
 ![거북왕](https://github.com/The-SOU/The-SOU/assets/54764319/2dc17a11-f738-431f-9ea5-38e2df91be39)
 
-🌱 I’m currently learning Coroutine, Room, Retorift, Git
+🌱 I’m currently learning Compose, Coroutine, Room, Retorift, Git
 
 🤔 I’m currently interested in Coroutine, Room, SQLite, Retrofit, LiveData, MVVM
 
