@@ -6,19 +6,15 @@
 
 ## Android Developer
 
-<div align=center>
-
 ![거북왕](https://github.com/The-SOU/The-SOU/assets/54764319/2dc17a11-f738-431f-9ea5-38e2df91be39)
-	
-</div>
 
 🌱 I’m currently learning Coroutine, Room, Retorift, Git
 
 🤔 I’m currently interested in Coroutine, Room, SQLite, Retrofit, LiveData, MVVM
 
-<div align=center>
-	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-SOU&show_icons=true&theme=merko)
+
+<div align=center>
 	
 [![Tistory Badge](https://img.shields.io/badge/Tistory-Techblog-orange?logo=android&style=flat-square)](https://ggachi.tistory.com/)
 	
