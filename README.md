@@ -12,11 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-SOU&show_icons=true&theme=merko)
 
-<p align"center">
-
-<img src="![거북왕](https://github.com/The-SOU/The-SOU/assets/54764319/cfde4015-74d5-44c0-b55e-afd425199176)">
-
-</p>
+![거북왕](https://github.com/The-SOU/The-SOU/assets/54764319/2dc17a11-f738-431f-9ea5-38e2df91be39)
 	
 <div align=center>
 	
